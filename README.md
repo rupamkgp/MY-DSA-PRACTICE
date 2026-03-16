@@ -74,3 +74,8 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 01 | Problem 3: 155. Min Stack | [Link](./Day-01/Problem-03/solution.cpp) |
 | Day 01 | Problem 4: 946. Validate Stack Sequences | [Link](./Day-01/Problem-04/solution.cpp) |
 | Day 01 | Problem 5: 136. Single Number | [Link](./Day-01/Problem-05/solution.cpp) |
+| Day 02 | Problem 1: 191. Number of 1 Bits | [Link](./Day-02/Problem-01/solution.cpp) |
+| Day 02 | Problem 2: 231. Power of Two | [Link](./Day-02/Problem-02/solution.cpp) |
+| Day 02 | Problem 3: 268. Missing Number | [Link](./Day-02/Problem-03/solution.cpp) |
+| Day 02 | Problem 4: 1. Two Sum | [Link](./Day-02/Problem-04/solution.cpp) |
+| Day 02 | Problem 5: 217. Contains Duplicate | [Link](./Day-02/Problem-05/solution.cpp) |
