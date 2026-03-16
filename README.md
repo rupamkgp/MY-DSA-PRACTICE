@@ -71,3 +71,5 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 |----|----|----|
 | Day 01 | Problem 1: 225. Implement Stack using Queues | [Link](./Day-01/Problem-01/solution.cpp) |
 | Day 01 | Problem 2: 232. Implement Queue using Stacks | [Link](./Day-01/Problem-02/solution.cpp) |
+| Day 01 | Problem 3: 155. Min Stack | [Link](./Day-01/Problem-03/solution.cpp) |
+| Day 01 | Problem 4: 946. Validate Stack Sequences | [Link](./Day-01/Problem-04/solution.cpp) |
