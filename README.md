@@ -15,6 +15,12 @@ I solve problems regularly from popular competitive programming platforms such a
 - Time and Space Complexity analysis
 - Organized **day-wise practice folders**
 
+
+
+
+
+  
+
 ## Repository Structure
 
 Each day has a dedicated folder that contains the problem and its solution.
@@ -33,6 +39,10 @@ DSA-Practice/
 │ └── solution.cpp
 │
 └── README.md
+
+
+
+
 
 
 - **problem.md** contains the problem description, examples, constraints, and explanation of the approach.
