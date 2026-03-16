@@ -20,7 +20,7 @@ I solve problems regularly from popular competitive programming platforms such a
 
 
   
-
+```
 ## Repository Structure
 
 Each day has a dedicated folder that contains the problem and its solution.
@@ -39,7 +39,7 @@ DSA-Practice/
 │ └── solution.cpp
 │
 └── README.md
-
+```
 
 
 
