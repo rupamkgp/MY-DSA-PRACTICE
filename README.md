@@ -66,3 +66,7 @@ DSA-Practice/
 This repository will be updated **daily** with new problems and solutions as part of my continuous learning journey.
 
 Consistency in solving problems is the key to mastering DSA and becoming a better programmer.
+
+| Day | Problem | Solution |
+|----|----|----|
+| Day 01 | 225. Implement Stack using Queues | [Link](./Day-01/solution.cpp) |
