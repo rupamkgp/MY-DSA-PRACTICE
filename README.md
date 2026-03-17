@@ -86,3 +86,12 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 03 | Problem 5: 27. Remove Element | [Link](./Day-03/Problem-05/solution.cpp) |
 | Day 03 | Problem 6: 128. Longest Consecutive Sequence | [Link](./Day-03/Problem-06/solution.cpp) |
 | Day 03 | Problem 7: 242. Valid Anagram | [Link](./Day-03/Problem-07/solution.cpp) |
+| Day 04 | Problem 1: 389. Find the Difference | [Link](./Day-04/Problem-01/solution.cpp) |
+| Day 04 | Problem 2: 989. Add to Array-Form of Integer | [Link](./Day-04/Problem-02/solution.cpp) |
+| Day 04 | Problem 3: 67. Add Binary | [Link](./Day-04/Problem-03/solution.cpp) |
+| Day 04 | Problem 4: 125. Valid Palindrome | [Link](./Day-04/Problem-04/solution.cpp) |
+| Day 04 | Problem 5: 179. Largest Number | [Link](./Day-04/Problem-05/solution.cpp) |
+| Day 04 | Problem 6: 496. Next Greater Element I | [Link](./Day-04/Problem-06/solution.cpp) |
+| Day 04 | Problem 7: 705. Design HashSet | [Link](./Day-04/Problem-07/solution.cpp) |
+| Day 04 | Problem 8: 215. Kth Largest Element in an Array | [Link](./Day-04/Problem-08/solution.cpp) |
+| Day 04 | Problem 9: 350. Intersection of Two Arrays II | [Link](./Day-04/Problem-09/solution.cpp) |
