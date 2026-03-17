@@ -79,3 +79,10 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 02 | Problem 3: 268. Missing Number | [Link](./Day-02/Problem-03/solution.cpp) |
 | Day 02 | Problem 4: 1. Two Sum | [Link](./Day-02/Problem-04/solution.cpp) |
 | Day 02 | Problem 5: 217. Contains Duplicate | [Link](./Day-02/Problem-05/solution.cpp) |
+| Day 03 | Problem 1: 344. Reverse String | [Link](./Day-03/Problem-01/solution.cpp) |
+| Day 03 | Problem 2: 66. Plus One | [Link](./Day-03/Problem-02/solution.cpp) |
+| Day 03 | Problem 3: 58. Length of Last Word | [Link](./Day-03/Problem-03/solution.cpp) |
+| Day 03 | Problem 4: 28. Find the Index of the First Occurrence in a String | [Link](./Day-03/Problem-04/solution.cpp) |
+| Day 03 | Problem 5: 27. Remove Element | [Link](./Day-03/Problem-05/solution.cpp) |
+| Day 03 | Problem 6: 128. Longest Consecutive Sequence | [Link](./Day-03/Problem-06/solution.cpp) |
+| Day 03 | Problem 7: 242. Valid Anagram | [Link](./Day-03/Problem-07/solution.cpp) |
