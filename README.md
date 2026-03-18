@@ -95,3 +95,10 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 04 | Problem 7: 705. Design HashSet | [Link](./Day-04/Problem-07/solution.cpp) |
 | Day 04 | Problem 8: 215. Kth Largest Element in an Array | [Link](./Day-04/Problem-08/solution.cpp) |
 | Day 04 | Problem 9: 350. Intersection of Two Arrays II | [Link](./Day-04/Problem-09/solution.cpp) |
+| Day 05 | Problem 1: 16. 3Sum Closest | [Link](./Day-05/Problem-01/solution.cpp) |
+| Day 05 | Problem 2: 15. 3Sum | [Link](./Day-05/Problem-02/solution.cpp) |
+| Day 05 | Problem 3: 977. Squares of a Sorted Array | [Link](./Day-05/Problem-03/solution.cpp) |
+| Day 05 | Problem 4: 88. Merge Sorted Array | [Link](./Day-05/Problem-04/solution.cpp) |
+| Day 05 | Problem 5: 26. Remove Duplicates from Sorted Array | [Link](./Day-05/Problem-05/solution.cpp) |
+| Day 05 | Problem 6: 167. Two Sum II - Input Array Is Sorted | [Link](./Day-05/Problem-06/solution.cpp) |
+| Day 05 | Problem 7: 1. Two Sum | [Link](./Day-05/Problem-07/solution.cpp) |
