@@ -102,3 +102,7 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 05 | Problem 5: 26. Remove Duplicates from Sorted Array | [Link](./Day-05/Problem-05/solution.cpp) |
 | Day 05 | Problem 6: 167. Two Sum II - Input Array Is Sorted | [Link](./Day-05/Problem-06/solution.cpp) |
 | Day 05 | Problem 7: 1. Two Sum | [Link](./Day-05/Problem-07/solution.cpp) |
+| Day 06 | Problem 1: 169. Majority Element | [Link](./Day-06/Problem-01/solution.cpp) |
+| Day 06 | Problem 2: 2965. Find Missing and Repeated Values | [Link](./Day-06/Problem-02/solution.cpp) |
+| Day 06 | Problem 3: 50. Pow(x, n) | [Link](./Day-06/Problem-03/solution.cpp) |
+| Day 06 | Problem 4: 121. Best Time to Buy and Sell Stock | [Link](./Day-06/Problem-04/solution.cpp) |
