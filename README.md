@@ -106,3 +106,7 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 06 | Problem 2: 2965. Find Missing and Repeated Values | [Link](./Day-06/Problem-02/solution.cpp) |
 | Day 06 | Problem 3: 50. Pow(x, n) | [Link](./Day-06/Problem-03/solution.cpp) |
 | Day 06 | Problem 4: 121. Best Time to Buy and Sell Stock | [Link](./Day-06/Problem-04/solution.cpp) |
+| Day 07 | Problem 1: 53. Maximum Subarray | [Link](./Day-07/Problem-01/solution.cpp) |
+| Day 07 | Problem 2: 75. Sort Colors | [Link](./Day-07/Problem-02/solution.cpp) |
+| Day 07 | Problem 3: 18. 4Sum | [Link](./Day-07/Problem-03/solution.cpp) |
+| Day 07 | Problem 4: 11. Container With Most Water | [Link](./Day-07/Problem-04/solution.cpp) |
