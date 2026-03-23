@@ -110,3 +110,14 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 07 | Problem 2: 75. Sort Colors | [Link](./Day-07/Problem-02/solution.cpp) |
 | Day 07 | Problem 3: 18. 4Sum | [Link](./Day-07/Problem-03/solution.cpp) |
 | Day 07 | Problem 4: 11. Container With Most Water | [Link](./Day-07/Problem-04/solution.cpp) |
+| Day 08 | Problem 1: 287. Find the Duplicate Number | [Link](./Day-08/Problem-01/solution.cpp) |
+| Day 08 | Problem 2: 56. Merge Intervals | [Link](./Day-08/Problem-02/solution.cpp) |
+| Day 08 | Problem 3: 238. Product of Array Except Self | [Link](./Day-08/Problem-03/solution.cpp) |
+| Day 08 | Problem 4: 31. Next Permutation | [Link](./Day-08/Problem-04/solution.cpp) |
+| Day 08 | Problem 5: 73. Set Matrix Zeroes | [Link](./Day-08/Problem-05/solution.cpp) |
+| Day 08 | Problem 6: 3. Longest Substring Without Repeating Characters | [Link](./Day-08/Problem-06/solution.cpp) |
+| Day 08 | Problem 7: 79. Word Search | [Link](./Day-08/Problem-07/solution.cpp) |
+| Day 08 | Problem 8: 560. Subarray Sum Equals K | [Link](./Day-08/Problem-08/solution.cpp) |
+| Day 08 | Problem 9: 144. Binary Tree Preorder Traversal | [Link](./Day-08/Problem-09/solution.cpp) |
+| Day 08 | Problem 10: 94. Binary Tree Inorder Traversal | [Link](./Day-08/Problem-10/solution.cpp) |
+| Day 08 | Problem 11: 145. Binary Tree Postorder Traversal | [Link](./Day-08/Problem-11/solution.cpp) |
