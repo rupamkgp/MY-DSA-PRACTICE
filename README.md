@@ -121,3 +121,5 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 08 | Problem 9: 144. Binary Tree Preorder Traversal | [Link](./Day-08/Problem-09/solution.cpp) |
 | Day 08 | Problem 10: 94. Binary Tree Inorder Traversal | [Link](./Day-08/Problem-10/solution.cpp) |
 | Day 08 | Problem 11: 145. Binary Tree Postorder Traversal | [Link](./Day-08/Problem-11/solution.cpp) |
+| Day 09 | Problem 1: 74. Search a 2D Matrix | [Link](./Day-09/Problem-01/solution.cpp) |
+| Day 09 | Problem 2: 240. Search a 2D Matrix II | [Link](./Day-09/Problem-02/solution.cpp) |
