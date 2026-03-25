@@ -123,3 +123,11 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 08 | Problem 11: 145. Binary Tree Postorder Traversal | [Link](./Day-08/Problem-11/solution.cpp) |
 | Day 09 | Problem 1: 74. Search a 2D Matrix | [Link](./Day-09/Problem-01/solution.cpp) |
 | Day 09 | Problem 2: 240. Search a 2D Matrix II | [Link](./Day-09/Problem-02/solution.cpp) |
+| Day 10 | Problem 1: 54. Spiral Matrix | [Link](./Day-10/Problem-01/solution.cpp) |
+| Day 10 | Problem 2: 125. Valid Palindrome | [Link](./Day-10/Problem-02/solution.cpp) |
+| Day 10 | Problem 3: 242. Valid Anagram | [Link](./Day-10/Problem-03/solution.cpp) |
+| Day 10 | Problem 4: 151. Reverse Words in a String | [Link](./Day-10/Problem-04/solution.cpp) |
+| Day 10 | Problem 5: 1910. Remove All Occurrences of a Substring | [Link](./Day-10/Problem-05/solution.cpp) |
+| Day 10 | Problem 6: 567. Permutation in String | [Link](./Day-10/Problem-06/solution.cpp) |
+| Day 10 | Problem 7: 443. String Compression | [Link](./Day-10/Problem-07/solution.cpp) |
+| Day 10 | Problem 8: 42. Trapping Rain Water | [Link](./Day-10/Problem-08/solution.cpp) |
