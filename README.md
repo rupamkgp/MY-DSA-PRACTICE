@@ -131,3 +131,9 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 10 | Problem 6: 567. Permutation in String | [Link](./Day-10/Problem-06/solution.cpp) |
 | Day 10 | Problem 7: 443. String Compression | [Link](./Day-10/Problem-07/solution.cpp) |
 | Day 10 | Problem 8: 42. Trapping Rain Water | [Link](./Day-10/Problem-08/solution.cpp) |
+| Day 11 | Problem 1: 102. Binary Tree Level Order Traversal | [Link](./Day-11/Problem-01/solution.cpp) |
+| Day 11 | Problem 2: 783. Minimum Distance Between BST Nodes | [Link](./Day-11/Problem-02/solution.cpp) |
+| Day 11 | Problem 3: 100. Same Tree | [Link](./Day-11/Problem-03/solution.cpp) |
+| Day 11 | Problem 4: 543. Diameter of Binary Tree | [Link](./Day-11/Problem-04/solution.cpp) |
+| Day 11 | Problem 5: 101. Symmetric Tree | [Link](./Day-11/Problem-05/solution.cpp) |
+| Day 11 | Problem 6: 572. Subtree of Another Tree | [Link](./Day-11/Problem-06/solution.cpp) |
