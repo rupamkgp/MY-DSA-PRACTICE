@@ -137,3 +137,5 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 11 | Problem 4: 543. Diameter of Binary Tree | [Link](./Day-11/Problem-04/solution.cpp) |
 | Day 11 | Problem 5: 101. Symmetric Tree | [Link](./Day-11/Problem-05/solution.cpp) |
 | Day 11 | Problem 6: 572. Subtree of Another Tree | [Link](./Day-11/Problem-06/solution.cpp) |
+| Day 12 | Problem 1: 108. Convert Sorted Array to Binary Search Tree | [Link](./Day-12/Problem-01/solution.cpp) |
+| Day 12 | Problem 2: 110. Balanced Binary Tree | [Link](./Day-12/Problem-02/solution.cpp) |
