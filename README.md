@@ -139,3 +139,14 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 11 | Problem 6: 572. Subtree of Another Tree | [Link](./Day-11/Problem-06/solution.cpp) |
 | Day 12 | Problem 1: 108. Convert Sorted Array to Binary Search Tree | [Link](./Day-12/Problem-01/solution.cpp) |
 | Day 12 | Problem 2: 110. Balanced Binary Tree | [Link](./Day-12/Problem-02/solution.cpp) |
+| Day 13 | Problem 1: 98. Validate Binary Search Tree | [Link](./Day-13/Problem-01/solution.cpp) |
+| Day 13 | Problem 2: 230. Kth Smallest Element in a BST | [Link](./Day-13/Problem-02/solution.cpp) |
+| Day 13 | Problem 3: 235. Lowest Common Ancestor of a Binary Search Tree | [Link](./Day-13/Problem-03/solution.cpp) |
+| Day 13 | Problem 4: 236. Lowest Common Ancestor of a Binary Tree | [Link](./Day-13/Problem-04/solution.cpp) |
+| Day 13 | Problem 5: 1038. Binary Search Tree to Greater Sum Tree | [Link](./Day-13/Problem-05/solution.cpp) |
+| Day 13 | Problem 6: 1161. Maximum Level Sum of a Binary Tree | [Link](./Day-13/Problem-06/solution.cpp) |
+| Day 13 | Problem 7: 99. Recover Binary Search Tree | [Link](./Day-13/Problem-07/solution.cpp) |
+| Day 13 | Problem 8: 173. Binary Search Tree Iterator | [Link](./Day-13/Problem-08/solution.cpp) |
+| Day 13 | Problem 9: 540. Single Element in a Sorted Array | [Link](./Day-13/Problem-09/solution.cpp) |
+| Day 13 | Problem 10: 33. Search in Rotated Sorted Array | [Link](./Day-13/Problem-10/solution.cpp) |
+| Day 13 | Problem 11: 852. Peak Index in a Mountain Array | [Link](./Day-13/Problem-11/solution.cpp) |
