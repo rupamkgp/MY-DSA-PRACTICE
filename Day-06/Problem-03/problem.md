@@ -1,3 +1,9 @@
 # 50. Pow(x, n)
 
-[LeetCode Problem Description]
+Implement `pow(x, n)`, which calculates `x` raised to the power `n` (i.e., `x^n`).
+
+### Example 1:
+```
+Input: x = 2.00000, n = 10
+Output: 1024.00000
+```

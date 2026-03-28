@@ -1,3 +1,3 @@
 # 54. Spiral Matrix
 
-[LeetCode Problem Description]
+Given an `m x n` `matrix`, return all elements of the `matrix` in spiral order.

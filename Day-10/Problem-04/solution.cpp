@@ -1,6 +1,25 @@
-// Solution for 151. Reverse Words in a String
 #include <iostream>
+#include <string>
+#include <algorithm>
 using namespace std;
+
+class Solution {
+public:
+    string reverseWords(string s) {
+        int n = s.length();
+        int i = 0, j = 0;
+        while (i < n) {
+            while (i < n && s[i] == ' ') i++;
+            if (i < n && j > 0) s[j++] = ' ';
+            int start = j;
+            while (i < n && s[i] != ' ') s[j++] = s[i++];
+            reverse(s.begin() + start, s.begin() + j);
+        }
+        s.resize(j);
+        reverse(s.begin(), s.end());
+        return s;
+    }
+};
 
 int main() {
     return 0;
