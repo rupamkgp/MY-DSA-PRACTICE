@@ -150,3 +150,6 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 13 | Problem 9: 540. Single Element in a Sorted Array | [Link](./Day-13/Problem-09/solution.cpp) |
 | Day 13 | Problem 10: 33. Search in Rotated Sorted Array | [Link](./Day-13/Problem-10/solution.cpp) |
 | Day 13 | Problem 11: 852. Peak Index in a Mountain Array | [Link](./Day-13/Problem-11/solution.cpp) |
+| Day 14 | Problem 1: 104. Maximum Depth of Binary Tree | [Link](./Day-14/Problem-01/solution.cpp) |
+| Day 15 | Problem 1: 226. Invert Binary Tree | [Link](./Day-15/Problem-01/solution.cpp) |
+| Day 16 | Problem 1: 700. Search in a Binary Search Tree | [Link](./Day-16/Problem-01/solution.cpp) |
