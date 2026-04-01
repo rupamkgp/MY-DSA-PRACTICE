@@ -153,3 +153,33 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 14 | Problem 1: 104. Maximum Depth of Binary Tree | [Link](./Day-14/Problem-01/solution.cpp) |
 | Day 15 | Problem 1: 226. Invert Binary Tree | [Link](./Day-15/Problem-01/solution.cpp) |
 | Day 16 | Problem 1: 700. Search in a Binary Search Tree | [Link](./Day-16/Problem-01/solution.cpp) |
+| Day 17 | Problem 1: 704. Binary Search | [Link](./Day-17/Problem-01/solution.cpp) |
+| Day 18 | Problem 1: 206. Reverse Linked List | [Link](./Day-18/Problem-01/solution.cpp) |
+| Day 19 | Problem 1: 21. Merge Two Sorted Lists | [Link](./Day-19/Problem-01/solution.cpp) |
+| Day 20 | Problem 1: 141. Linked List Cycle | [Link](./Day-20/Problem-01/solution.cpp) |
+| Day 21 | Problem 1: 876. Middle of the Linked List | [Link](./Day-21/Problem-01/solution.cpp) |
+| Day 22 | Problem 1: 19. Remove Nth Node From End of List | [Link](./Day-22/Problem-01/solution.cpp) |
+| Day 23 | Problem 1: 83. Remove Duplicates from Sorted List | [Link](./Day-23/Problem-01/solution.cpp) |
+| Day 24 | Problem 1: 160. Intersection of Two Linked Lists | [Link](./Day-24/Problem-01/solution.cpp) |
+| Day 25 | Problem 1: 203. Remove Linked List Elements | [Link](./Day-25/Problem-01/solution.cpp) |
+| Day 26 | Problem 1: 234. Palindrome Linked List | [Link](./Day-26/Problem-01/solution.cpp) |
+| Day 27 | Problem 1: 35. Search Insert Position | [Link](./Day-27/Problem-01/solution.cpp) |
+| Day 28 | Problem 1: 70. Climbing Stairs | [Link](./Day-28/Problem-01/solution.cpp) |
+| Day 29 | Problem 1: 746. Min Cost Climbing Stairs | [Link](./Day-29/Problem-01/solution.cpp) |
+| Day 30 | Problem 1: 198. House Robber | [Link](./Day-30/Problem-01/solution.cpp) |
+| Day 31 | Problem 1: 213. House Robber II | [Link](./Day-31/Problem-01/solution.cpp) |
+| Day 32 | Problem 1: 300. Longest Increasing Subsequence | [Link](./Day-32/Problem-01/solution.cpp) |
+| Day 33 | Problem 1: 322. Coin Change | [Link](./Day-33/Problem-01/solution.cpp) |
+| Day 34 | Problem 1: 518. Coin Change II | [Link](./Day-34/Problem-01/solution.cpp) |
+| Day 35 | Problem 1: 1143. Longest Common Subsequence | [Link](./Day-35/Problem-01/solution.cpp) |
+| Day 36 | Problem 1: 62. Unique Paths | [Link](./Day-36/Problem-01/solution.cpp) |
+| Day 37 | Problem 1: 63. Unique Paths II | [Link](./Day-37/Problem-01/solution.cpp) |
+| Day 38 | Problem 1: 64. Minimum Path Sum | [Link](./Day-38/Problem-01/solution.cpp) |
+| Day 39 | Problem 1: 120. Triangle | [Link](./Day-39/Problem-01/solution.cpp) |
+| Day 40 | Problem 1: 55. Jump Game | [Link](./Day-40/Problem-01/solution.cpp) |
+| Day 41 | Problem 1: 45. Jump Game II | [Link](./Day-41/Problem-01/solution.cpp) |
+| Day 42 | Problem 1: 122. Best Time to Buy and Sell Stock II | [Link](./Day-42/Problem-01/solution.cpp) |
+| Day 43 | Problem 1: 309. Best Time to Buy and Sell Stock with Cooldown | [Link](./Day-43/Problem-01/solution.cpp) |
+| Day 44 | Problem 1: 714. Best Time to Buy and Sell Stock with Transaction Fee | [Link](./Day-44/Problem-01/solution.cpp) |
+| Day 45 | Problem 1: 509. Fibonacci Number | [Link](./Day-45/Problem-01/solution.cpp) |
+| Day 46 | Problem 1: 1137. N-th Tribonacci Number | [Link](./Day-46/Problem-01/solution.cpp) |
