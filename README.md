@@ -183,3 +183,34 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 44 | Problem 1: 714. Best Time to Buy and Sell Stock with Transaction Fee | [Link](./Day-44/Problem-01/solution.cpp) |
 | Day 45 | Problem 1: 509. Fibonacci Number | [Link](./Day-45/Problem-01/solution.cpp) |
 | Day 46 | Problem 1: 1137. N-th Tribonacci Number | [Link](./Day-46/Problem-01/solution.cpp) |
+| Day 47 | Problem 1: 142. Linked List Cycle II | [Link](./Day-47/Problem-01/solution.cpp) |
+| Day 48 | Problem 1: 237. Delete Node in a Linked List | [Link](./Day-48/Problem-01/solution.cpp) |
+| Day 49 | Problem 1: 328. Odd Even Linked List | [Link](./Day-49/Problem-01/solution.cpp) |
+| Day 50 | Problem 1: 2. Add Two Numbers | [Link](./Day-50/Problem-01/solution.cpp) |
+| Day 51 | Problem 1: 20. Valid Parentheses | [Link](./Day-51/Problem-01/solution.cpp) |
+| Day 52 | Problem 1: 150. Evaluate Reverse Polish Notation | [Link](./Day-52/Problem-01/solution.cpp) |
+| Day 53 | Problem 1: 22. Generate Parentheses | [Link](./Day-53/Problem-01/solution.cpp) |
+| Day 54 | Problem 1: 739. Daily Temperatures | [Link](./Day-54/Problem-01/solution.cpp) |
+| Day 55 | Problem 1: 84. Largest Rectangle in Histogram | [Link](./Day-55/Problem-01/solution.cpp) |
+| Day 56 | Problem 1: 239. Sliding Window Maximum | [Link](./Day-56/Problem-01/solution.cpp) |
+| Day 57 | Problem 1: 153. Find Minimum in Rotated Sorted Array | [Link](./Day-57/Problem-01/solution.cpp) |
+| Day 58 | Problem 1: 162. Find Peak Element | [Link](./Day-58/Problem-01/solution.cpp) |
+| Day 59 | Problem 1: 34. Find First and Last Position of Element in Sorted Array | [Link](./Day-59/Problem-01/solution.cpp) |
+| Day 60 | Problem 1: 81. Search in Rotated Sorted Array II | [Link](./Day-60/Problem-01/solution.cpp) |
+| Day 61 | Problem 1: 4. Median of Two Sorted Arrays | [Link](./Day-61/Problem-01/solution.cpp) |
+| Day 62 | Problem 1: 148. Sort List | [Link](./Day-62/Problem-01/solution.cpp) |
+| Day 63 | Problem 1: 143. Reorder List | [Link](./Day-63/Problem-01/solution.cpp) |
+| Day 64 | Problem 1: 61. Rotate List | [Link](./Day-64/Problem-01/solution.cpp) |
+| Day 65 | Problem 1: 82. Remove Duplicates from Sorted List II | [Link](./Day-65/Problem-01/solution.cpp) |
+| Day 66 | Problem 1: 86. Partition List | [Link](./Day-66/Problem-01/solution.cpp) |
+| Day 67 | Problem 1: 92. Reverse Linked List II | [Link](./Day-67/Problem-01/solution.cpp) |
+| Day 68 | Problem 1: 24. Swap Nodes in Pairs | [Link](./Day-68/Problem-01/solution.cpp) |
+| Day 69 | Problem 1: 25. Reverse Nodes in k-Group | [Link](./Day-69/Problem-01/solution.cpp) |
+| Day 70 | Problem 1: 138. Copy List with Random Pointer | [Link](./Day-70/Problem-01/solution.cpp) |
+| Day 71 | Problem 1: 703. Kth Largest Element in a Stream | [Link](./Day-71/Problem-01/solution.cpp) |
+| Day 72 | Problem 1: 973. K Closest Points to Origin | [Link](./Day-72/Problem-01/solution.cpp) |
+| Day 73 | Problem 1: 347. Top K Frequent Elements | [Link](./Day-73/Problem-01/solution.cpp) |
+| Day 74 | Problem 1: 621. Task Scheduler | [Link](./Day-74/Problem-01/solution.cpp) |
+| Day 75 | Problem 1: 355. Design Twitter | [Link](./Day-75/Problem-01/solution.cpp) |
+| Day 76 | Problem 1: 295. Find Median from Data Stream | [Link](./Day-76/Problem-01/solution.cpp) |
+| Day 77 | Problem 1: 48. Rotate Image | [Link](./Day-77/Problem-01/solution.cpp) |
