@@ -214,3 +214,24 @@ Consistency in solving problems is the key to mastering DSA and becoming a bette
 | Day 75 | Problem 1: 355. Design Twitter | [Link](./Day-75/Problem-01/solution.cpp) |
 | Day 76 | Problem 1: 295. Find Median from Data Stream | [Link](./Day-76/Problem-01/solution.cpp) |
 | Day 77 | Problem 1: 48. Rotate Image | [Link](./Day-77/Problem-01/solution.cpp) |
+| Day 78 | Problem 1: 78. Subsets | [Link](./Day-78/Problem-01/solution.cpp) |
+| Day 79 | Problem 1: 90. Subsets II | [Link](./Day-79/Problem-01/solution.cpp) |
+| Day 80 | Problem 1: 39. Combination Sum | [Link](./Day-80/Problem-01/solution.cpp) |
+| Day 81 | Problem 1: 40. Combination Sum II | [Link](./Day-81/Problem-01/solution.cpp) |
+| Day 82 | Problem 1: 46. Permutations | [Link](./Day-82/Problem-01/solution.cpp) |
+| Day 83 | Problem 1: 47. Permutations II | [Link](./Day-83/Problem-01/solution.cpp) |
+| Day 84 | Problem 1: 77. Combinations | [Link](./Day-84/Problem-01/solution.cpp) |
+| Day 85 | Problem 1: 17. Letter Combinations of a Phone Number | [Link](./Day-85/Problem-01/solution.cpp) |
+| Day 86 | Problem 1: 51. N-Queens | [Link](./Day-86/Problem-01/solution.cpp) |
+| Day 87 | Problem 1: 37. Sudoku Solver | [Link](./Day-87/Problem-01/solution.cpp) |
+| Day 88 | Problem 1: 131. Palindrome Partitioning | [Link](./Day-88/Problem-01/solution.cpp) |
+| Day 89 | Problem 1: 93. Restore IP Addresses | [Link](./Day-89/Problem-01/solution.cpp) |
+| Day 90 | Problem 1: 112. Path Sum | [Link](./Day-90/Problem-01/solution.cpp) |
+| Day 91 | Problem 1: 113. Path Sum II | [Link](./Day-91/Problem-01/solution.cpp) |
+| Day 92 | Problem 1: 129. Sum Root to Leaf Numbers | [Link](./Day-92/Problem-01/solution.cpp) |
+| Day 93 | Problem 1: 124. Binary Tree Maximum Path Sum | [Link](./Day-93/Problem-01/solution.cpp) |
+| Day 94 | Problem 1: 199. Binary Tree Right Side View | [Link](./Day-94/Problem-01/solution.cpp) |
+| Day 95 | Problem 1: 103. Binary Tree Zigzag Level Order Traversal | [Link](./Day-95/Problem-01/solution.cpp) |
+| Day 96 | Problem 1: 105. Construct Binary Tree from Preorder and Inorder Traversal | [Link](./Day-96/Problem-01/solution.cpp) |
+| Day 97 | Problem 1: 106. Construct Binary Tree from Inorder and Postorder Traversal | [Link](./Day-97/Problem-01/solution.cpp) |
+| Day 98 | Problem 1: 208. Implement Trie (Prefix Tree) | [Link](./Day-98/Problem-01/solution.cpp) |
