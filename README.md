@@ -8,7 +8,7 @@ I solve problems regularly from popular competitive programming platforms such a
 
 ## What this repository contains
 
-- Daily solved DSA problems
+- Daily solved DSA problems 
 - Clean and optimized **C++ solutions**
 - Problem statements and explanations
 - Approach used to solve each problem
